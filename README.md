@@ -1,5 +1,7 @@
 Roving Robot, equipped with an ultrasonic sensor and Sentry mode
 
+![image](https://github.com/user-attachments/assets/28c07ff6-66b4-4fad-9910-0809f3f346ad)
+
 
 Circuit:
 
