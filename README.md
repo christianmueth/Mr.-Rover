@@ -1,3 +1,7 @@
+Circuit:
+
+![image](https://github.com/user-attachments/assets/de6c9d2f-b153-49ec-9e51-1e860796aa68)
+
 
 Code:
 
